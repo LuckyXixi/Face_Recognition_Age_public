@@ -1,0 +1,7 @@
+src/test.py
+image
+rawdata_restore
+data/*
+!data/eigenfaces
+**/__pycache__
+.vscode
